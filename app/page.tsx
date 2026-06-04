@@ -44,7 +44,7 @@ export default function Home() {
         <div className="flex items-baseline">
           <span className="text-lg font-bold tracking-tight text-slate-900 dark:text-slate-100">codobux</span>
           <span className="text-lg font-bold text-brand">.</span>
-          <span className="ml-3 text-sm text-slate-400 dark:text-slate-500">Page Builder</span>
+          <span className="hidden lg:block ml-3 text-sm text-slate-400 dark:text-slate-500">Page Builder</span>
         </div>
         <div className="flex items-center gap-3">
           {/* Mobile-only panel switch */}
